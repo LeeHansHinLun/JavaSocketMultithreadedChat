@@ -34,4 +34,4 @@ jobs:
           tag_name: 'inherit' # Must use 'inherit' to get the latest release
           body: 'hello world' # Will be added in the new release
           repo: 'LeeHansHinLun/JavaSocketMultithreadedChat' # The format is like owner/repo
-          asset_files: './asset_file' # Will be added in the new release
+          #asset_files: './asset_file' # Will be added in the new release
